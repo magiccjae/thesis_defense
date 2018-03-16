@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  15 MAR 2018 07:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  16 MAR 2018 07:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -851,21 +851,21 @@ Package caption Info: Hyperref support is turned off
 (./presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 41.
  (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -932,7 +932,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -942,60 +942,60 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count172
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 42.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 42.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 42.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 42.
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 41.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 42.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 42.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 42.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 42.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 42.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 42.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 42.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 42.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 42.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 42.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 42.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 42.
+(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 42.
+(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 42.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 42.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 42.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1021,70 +1021,155 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 42.
+LaTeX Info: Redefining \includegraphics on input line 41.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./presentation.nav) <logo_gray.pdf, id=13, 781.92125pt x 393.47pt>
 File: logo_gray.pdf Graphic file (type pdf)
  <use logo_gray.pdf>
-Package pdftex.def Info: logo_gray.pdf used on input line 46.
+Package pdftex.def Info: logo_gray.pdf used on input line 45.
 (pdftex.def)             Requested size: 71.8016pt x 36.135pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo_gray.pdf>]
-<ibvs.pdf, id=47, 152.57pt x 61.22874pt>
-File: ibvs.pdf Graphic file (type pdf)
- <use ibvs.pdf>
-Package pdftex.def Info: ibvs.pdf used on input line 57.
-(pdftex.def)             Requested size: 228.85443pt x 91.84286pt.
+<myfamily.jpg, id=47, 2601.72pt x 1951.29pt>
+File: myfamily.jpg Graphic file (type jpg)
+ <use myfamily.jpg>
+Package pdftex.def Info: myfamily.jpg used on input line 71.
+(pdftex.def)             Requested size: 115.60349pt x 86.72377pt.
 
-<logo_white.pdf, id=48, 781.92125pt x 393.47pt>
-File: logo_white.pdf Graphic file (type pdf)
- <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 57.
-(pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [2
+<woojoosuho.jpg, id=48, 1951.29pt x 2601.72pt>
+File: woojoosuho.jpg Graphic file (type jpg)
+ <use woojoosuho.jpg>
+Package pdftex.def Info: woojoosuho.jpg used on input line 71.
+(pdftex.def)             Requested size: 65.02695pt x 86.72377pt.
 
- <./logo_white.pdf> <./ibvs.pdf>]
+<busan_family.jpg, id=49, 542.025pt x 963.6pt>
+File: busan_family.jpg Graphic file (type jpg)
+ <use busan_family.jpg>
+Package pdftex.def Info: busan_family.jpg used on input line 71.
+(pdftex.def)             Requested size: 48.78014pt x 86.72377pt.
+
+<hospital.jpg, id=50, 4625.28pt x 3468.96pt>
+File: hospital.jpg Graphic file (type jpg)
+ <use hospital.jpg>
+Package pdftex.def Info: hospital.jpg used on input line 71.
+(pdftex.def)             Requested size: 115.60349pt x 86.72377pt.
+
+<logo_white.pdf, id=51, 781.92125pt x 393.47pt>
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
 Package pdftex.def Info: logo_white.pdf used on input line 71.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
+ [2
+
+ <./logo_white.pdf> <./myfamily.jpg> <./woojoosuho.jpg> <./busan_family.jpg> <.
+/hospital.jpg>] <ibvs.pdf, id=79, 152.57pt x 61.22874pt>
+File: ibvs.pdf Graphic file (type pdf)
+ <use ibvs.pdf>
+Package pdftex.def Info: ibvs.pdf used on input line 82.
+(pdftex.def)             Requested size: 228.85443pt x 91.84286pt.
+File: logo_white.pdf Graphic file (type pdf)
+
+<use logo_white.pdf>
+Package pdftex.def Info: logo_white.pdf used on input line 82.
+(pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
  [3
 
+ <./ibvs.pdf>]
+File: logo_white.pdf Graphic file (type pdf)
+ <use logo_white.pdf>
+Package pdftex.def Info: logo_white.pdf used on input line 96.
+(pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
+ [4
+
 ]
-<phantom3_gimbal.jpg, id=113, 602.25pt x 602.25pt>
+<phantom3_gimbal.jpg, id=143, 602.25pt x 602.25pt>
 File: phantom3_gimbal.jpg Graphic file (type jpg)
  <use phantom3_gimbal.jpg>
-Package pdftex.def Info: phantom3_gimbal.jpg used on input line 94.
+Package pdftex.def Info: phantom3_gimbal.jpg used on input line 119.
 (pdftex.def)             Requested size: 86.72209pt x 86.72377pt.
 
-<chapter2/gimbal_webcam.jpg, id=114, 3131.7pt x 4175.6pt>
+<chapter2/gimbal_webcam.jpg, id=144, 3131.7pt x 4175.6pt>
 File: chapter2/gimbal_webcam.jpg Graphic file (type jpg)
 
 <use chapter2/gimbal_webcam.jpg>
-Package pdftex.def Info: chapter2/gimbal_webcam.jpg used on input line 94.
+Package pdftex.def Info: chapter2/gimbal_webcam.jpg used on input line 119.
 (pdftex.def)             Requested size: 65.03651pt x 86.72377pt.
 
-<chapter2/gimbal.jpg, id=115, 3131.7pt x 4175.6pt>
+<chapter2/gimbal.jpg, id=145, 3131.7pt x 4175.6pt>
 File: chapter2/gimbal.jpg Graphic file (type jpg)
  <use chapter2/gimbal.jpg>
-Package pdftex.def Info: chapter2/gimbal.jpg used on input line 94.
+Package pdftex.def Info: chapter2/gimbal.jpg used on input line 119.
 (pdftex.def)             Requested size: 65.03651pt x 86.72377pt.
 File: logo_white.pdf Graphic file (type pdf)
 
 <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 94.
+Package pdftex.def Info: logo_white.pdf used on input line 119.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [4
+ [5
 
  <./phantom3_gimbal.jpg> <./chapter2/gimbal_webcam.jpg> <./chapter2/gimbal.jpg>
 ]
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 107.
+Package pdftex.def Info: logo_white.pdf used on input line 132.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [5
+ [6
+
+]
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 161
+.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 161.
+
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 161
+.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 161
+.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 161.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 161.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 161.
+LaTeX Font Info:    Try loading font information for U+msa on input line 161.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 161.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 161.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 161.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 161.
+File: logo_white.pdf Graphic file (type pdf)
+
+<use logo_white.pdf>
+Package pdftex.def Info: logo_white.pdf used on input line 161.
+(pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
+ [7
 
 ]
 Package epstopdf Info: Source file: <chapter2/u_adaptive.eps>
@@ -1095,66 +1180,20 @@ Package epstopdf Info: Source file: <chapter2/u_adaptive.eps>
 (epstopdf)                    size: 83914 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/u_adaptive-eps-co
 nverted-to.pdf chapter2/u_adaptive.eps>
-(epstopdf)             \includegraphics on input line 126.
+(epstopdf)             \includegraphics on input line 180.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/u_adaptive-eps-converted-to.pdf, id=167, 437.635pt x 321.2pt>
+<chapter2/u_adaptive-eps-converted-to.pdf, id=230, 437.635pt x 321.2pt>
 File: chapter2/u_adaptive-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter2/u_adaptive-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/u_adaptive-eps-converted-to.pdf used on input
- line 126.
+ line 180.
 (pdftex.def)             Requested size: 138.28046pt x 101.4922pt.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 126
-.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmss.fd
-File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 126.
-
-
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 126
-.
-
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 126
-.
-
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 126.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 126.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 126.
-LaTeX Font Info:    Try loading font information for U+msa on input line 126.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 126.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+(Font)              <8> on input line 180.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 126.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 126.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 126.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 126.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 126.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 180.
 Package epstopdf Info: Source file: <chapter2/w_adaptive.eps>
 (epstopdf)                    date: 2018-01-09 13:55:36
 (epstopdf)                    size: 688662 bytes
@@ -1163,21 +1202,21 @@ Package epstopdf Info: Source file: <chapter2/w_adaptive.eps>
 (epstopdf)                    size: 91220 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/w_adaptive-eps-co
 nverted-to.pdf chapter2/w_adaptive.eps>
-(epstopdf)             \includegraphics on input line 126.
+(epstopdf)             \includegraphics on input line 180.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/w_adaptive-eps-converted-to.pdf, id=168, 437.635pt x 321.2pt>
+<chapter2/w_adaptive-eps-converted-to.pdf, id=231, 437.635pt x 321.2pt>
 File: chapter2/w_adaptive-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter2/w_adaptive-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/w_adaptive-eps-converted-to.pdf used on input
- line 126.
+ line 180.
 (pdftex.def)             Requested size: 138.28046pt x 101.4922pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 126.
+Package pdftex.def Info: logo_white.pdf used on input line 180.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [6
+ [8
 
  <./chapter2/u_adaptive-eps-converted-to.pdf> <./chapter2/w_adaptive-eps-conver
 ted-to.pdf>]
@@ -1190,16 +1229,16 @@ verted-to.pdf>
 (epstopdf)                    size: 52709 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/angular_velocity_
 adaptive-eps-converted-to.pdf chapter2/angular_velocity_adaptive.eps>
-(epstopdf)             \includegraphics on input line 145.
+(epstopdf)             \includegraphics on input line 199.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/angular_velocity_adaptive-eps-converted-to.pdf, id=206, 490.83376pt x
+<chapter2/angular_velocity_adaptive-eps-converted-to.pdf, id=269, 490.83376pt x
  341.275pt>
 File: chapter2/angular_velocity_adaptive-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use chapter2/angular_velocity_adaptive-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/angular_velocity_adaptive-eps-converted-to.pd
-f used on input line 145.
+f used on input line 199.
 (pdftex.def)             Requested size: 138.28046pt x 96.14478pt.
 Package epstopdf Info: Source file: <chapter2/z_adaptive.eps>
 (epstopdf)                    date: 2018-01-09 14:09:08
@@ -1209,21 +1248,21 @@ Package epstopdf Info: Source file: <chapter2/z_adaptive.eps>
 (epstopdf)                    size: 85331 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/z_adaptive-eps-co
 nverted-to.pdf chapter2/z_adaptive.eps>
-(epstopdf)             \includegraphics on input line 145.
+(epstopdf)             \includegraphics on input line 199.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/z_adaptive-eps-converted-to.pdf, id=207, 491.8375pt x 341.275pt>
+<chapter2/z_adaptive-eps-converted-to.pdf, id=270, 491.8375pt x 341.275pt>
 File: chapter2/z_adaptive-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter2/z_adaptive-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/z_adaptive-eps-converted-to.pdf used on input
- line 145.
+ line 199.
 (pdftex.def)             Requested size: 138.28046pt x 95.9469pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 145.
+Package pdftex.def Info: logo_white.pdf used on input line 199.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [7
+ [9
 
  <./chapter2/angular_velocity_adaptive-eps-converted-to.pdf> <./chapter2/z_adap
 tive-eps-converted-to.pdf>]
@@ -1236,15 +1275,15 @@ pdf>
 (epstopdf)                    size: 10264 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/uav_adaptive_0s-e
 ps-converted-to.pdf chapter2/uav_adaptive_0s.eps>
-(epstopdf)             \includegraphics on input line 174.
+(epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/uav_adaptive_0s-eps-converted-to.pdf, id=248, 1429.34pt x 761.84625pt
+<chapter2/uav_adaptive_0s-eps-converted-to.pdf, id=309, 1429.34pt x 761.84625pt
 >
 File: chapter2/uav_adaptive_0s-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter2/uav_adaptive_0s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/uav_adaptive_0s-eps-converted-to.pdf used on 
-input line 174.
+input line 228.
 (pdftex.def)             Requested size: 135.5706pt x 72.26999pt.
 Package epstopdf Info: Source file: <chapter2/camera_adaptive_0s.eps>
 (epstopdf)                    date: 2018-01-10 14:48:48
@@ -1255,15 +1294,15 @@ to.pdf>
 (epstopdf)                    size: 5914 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/camera_adaptive_0
 s-eps-converted-to.pdf chapter2/camera_adaptive_0s.eps>
-(epstopdf)             \includegraphics on input line 174.
+(epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/camera_adaptive_0s-eps-converted-to.pdf, id=249, 425.59pt x 319.1925p
+<chapter2/camera_adaptive_0s-eps-converted-to.pdf, id=310, 425.59pt x 319.1925p
 t>
 File: chapter2/camera_adaptive_0s-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter2/camera_adaptive_0s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/camera_adaptive_0s-eps-converted-to.pdf used 
-on input line 174.
+on input line 228.
 (pdftex.def)             Requested size: 96.35754pt x 72.26999pt.
 Package epstopdf Info: Source file: <chapter2/uav_adaptive_180s.eps>
 (epstopdf)                    date: 2018-01-10 15:13:22
@@ -1274,15 +1313,15 @@ o.pdf>
 (epstopdf)                    size: 10364 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/uav_adaptive_180s
 -eps-converted-to.pdf chapter2/uav_adaptive_180s.eps>
-(epstopdf)             \includegraphics on input line 174.
+(epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/uav_adaptive_180s-eps-converted-to.pdf, id=250, 1429.34pt x 761.84625
+<chapter2/uav_adaptive_180s-eps-converted-to.pdf, id=311, 1429.34pt x 761.84625
 pt>
 File: chapter2/uav_adaptive_180s-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter2/uav_adaptive_180s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/uav_adaptive_180s-eps-converted-to.pdf used o
-n input line 174.
+n input line 228.
 (pdftex.def)             Requested size: 135.5706pt x 72.26999pt.
 Package epstopdf Info: Source file: <chapter2/camera_adaptive_180s.eps>
 (epstopdf)                    date: 2018-01-10 15:13:30
@@ -1293,23 +1332,23 @@ d-to.pdf>
 (epstopdf)                    size: 5865 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/camera_adaptive_1
 80s-eps-converted-to.pdf chapter2/camera_adaptive_180s.eps>
-(epstopdf)             \includegraphics on input line 174.
+(epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/camera_adaptive_180s-eps-converted-to.pdf, id=251, 425.59pt x 319.192
+<chapter2/camera_adaptive_180s-eps-converted-to.pdf, id=312, 425.59pt x 319.192
 5pt>
 File: chapter2/camera_adaptive_180s-eps-converted-to.pdf Graphic file (type pdf
 )
  <use chapter2/camera_adaptive_180s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/camera_adaptive_180s-eps-converted-to.pdf use
-d on input line 174.
+d on input line 228.
 (pdftex.def)             Requested size: 96.35754pt x 72.26999pt.
 File: logo_white.pdf Graphic file (type pdf)
 
 <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 174.
+Package pdftex.def Info: logo_white.pdf used on input line 228.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [8
+ [10
 
  <./chapter2/uav_adaptive_0s-eps-converted-to.pdf> <./chapter2/camera_adaptive_
 0s-eps-converted-to.pdf> <./chapter2/uav_adaptive_180s-eps-converted-to.pdf> <.
@@ -1322,15 +1361,15 @@ Package epstopdf Info: Source file: <chapter2/uav_z.eps>
 (epstopdf)                    size: 49746 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/uav_z-eps-convert
 ed-to.pdf chapter2/uav_z.eps>
-(epstopdf)             \includegraphics on input line 198.
+(epstopdf)             \includegraphics on input line 252.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/uav_z-eps-converted-to.pdf, id=305, 440.64626pt x 346.29375pt>
+<chapter2/uav_z-eps-converted-to.pdf, id=365, 440.64626pt x 346.29375pt>
 File: chapter2/uav_z-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter2/uav_z-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/uav_z-eps-converted-to.pdf used on input line
- 198.
+ 252.
 (pdftex.def)             Requested size: 101.17755pt x 79.51378pt.
 Package epstopdf Info: Source file: <chapter2/uav_gimbal_command.eps>
 (epstopdf)                    date: 2018-01-10 15:17:30
@@ -1341,15 +1380,15 @@ to.pdf>
 (epstopdf)                    size: 43877 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/uav_gimbal_comman
 d-eps-converted-to.pdf chapter2/uav_gimbal_command.eps>
-(epstopdf)             \includegraphics on input line 198.
+(epstopdf)             \includegraphics on input line 252.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/uav_gimbal_command-eps-converted-to.pdf, id=306, 440.64626pt x 346.29
+<chapter2/uav_gimbal_command-eps-converted-to.pdf, id=366, 440.64626pt x 346.29
 375pt>
 File: chapter2/uav_gimbal_command-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter2/uav_gimbal_command-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/uav_gimbal_command-eps-converted-to.pdf used 
-on input line 198.
+on input line 252.
 (pdftex.def)             Requested size: 101.17755pt x 79.51378pt.
 Package epstopdf Info: Source file: <chapter2/uav_pixel.eps>
 (epstopdf)                    date: 2018-01-10 15:16:30
@@ -1359,183 +1398,183 @@ Package epstopdf Info: Source file: <chapter2/uav_pixel.eps>
 (epstopdf)                    size: 67282 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter2/uav_pixel-eps-con
 verted-to.pdf chapter2/uav_pixel.eps>
-(epstopdf)             \includegraphics on input line 198.
+(epstopdf)             \includegraphics on input line 252.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter2/uav_pixel-eps-converted-to.pdf, id=307, 439.6425pt x 346.29375pt>
+<chapter2/uav_pixel-eps-converted-to.pdf, id=367, 439.6425pt x 346.29375pt>
 File: chapter2/uav_pixel-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter2/uav_pixel-eps-converted-to.pdf>
 Package pdftex.def Info: chapter2/uav_pixel-eps-converted-to.pdf used on input 
-line 198.
+line 252.
 (pdftex.def)             Requested size: 101.17755pt x 79.69344pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 198.
+Package pdftex.def Info: logo_white.pdf used on input line 252.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [9
+ [11
 
  <./chapter2/uav_z-eps-converted-to.pdf> <./chapter2/uav_gimbal_command-eps-con
 verted-to.pdf> <./chapter2/uav_pixel-eps-converted-to.pdf>]
-<chapter2/gimbal_parts.png, id=351, 1311.90125pt x 411.5375pt>
+<chapter2/gimbal_parts.png, id=412, 1311.90125pt x 411.5375pt>
 File: chapter2/gimbal_parts.png Graphic file (type png)
 
 <use chapter2/gimbal_parts.png>
-Package pdftex.def Info: chapter2/gimbal_parts.png used on input line 215.
+Package pdftex.def Info: chapter2/gimbal_parts.png used on input line 269.
 (pdftex.def)             Requested size: 184.3055pt x 57.81621pt.
 
-<chapter2/gimbal_system_blockdiagram.pdf, id=352, 254.9525pt x 82.3075pt>
+<chapter2/gimbal_system_blockdiagram.pdf, id=413, 254.9525pt x 82.3075pt>
 File: chapter2/gimbal_system_blockdiagram.pdf Graphic file (type pdf)
 
 <use chapter2/gimbal_system_blockdiagram.pdf>
 Package pdftex.def Info: chapter2/gimbal_system_blockdiagram.pdf used on input 
-line 215.
+line 269.
 (pdftex.def)             Requested size: 179.09184pt x 57.81621pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 215.
+Package pdftex.def Info: logo_white.pdf used on input line 269.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [10
+ [12
 
  <./chapter2/gimbal_parts.png> <./chapter2/gimbal_system_blockdiagram.pdf>]
 File: logo_white.pdf Graphic file (type pdf)
 
 <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 233.
+Package pdftex.def Info: logo_white.pdf used on input line 287.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [11
+ [13
 
 ]
-<chapter3/system_diagram.pdf, id=414, 350.30875pt x 257.96375pt>
+<chapter3/system_diagram.pdf, id=474, 350.30875pt x 257.96375pt>
 File: chapter3/system_diagram.pdf Graphic file (type pdf)
 
 <use chapter3/system_diagram.pdf>
-Package pdftex.def Info: chapter3/system_diagram.pdf used on input line 243.
+Package pdftex.def Info: chapter3/system_diagram.pdf used on input line 297.
 (pdftex.def)             Requested size: 176.65596pt x 130.08621pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 243.
+Package pdftex.def Info: logo_white.pdf used on input line 297.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [12
+ [14
 
- <./chapter3/system_diagram.pdf>] <side_view_45deg_2.pdf, id=448, 305.14pt x 30
+ <./chapter3/system_diagram.pdf>] <side_view_45deg_2.pdf, id=509, 305.14pt x 30
 8.15125pt>
 File: side_view_45deg_2.pdf Graphic file (type pdf)
 
 <use side_view_45deg_2.pdf>
-Package pdftex.def Info: side_view_45deg_2.pdf used on input line 253.
+Package pdftex.def Info: side_view_45deg_2.pdf used on input line 307.
 (pdftex.def)             Requested size: 128.81908pt x 130.08621pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 253.
+Package pdftex.def Info: logo_white.pdf used on input line 307.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [13
+ [15
 
- <./side_view_45deg_2.pdf>] <chapter3/ID51_track_begin.png, id=481, 433.62pt x 
+ <./side_view_45deg_2.pdf>] <chapter3/ID51_track_begin.png, id=541, 433.62pt x 
 243.91125pt>
 File: chapter3/ID51_track_begin.png Graphic file (type png)
 
 <use chapter3/ID51_track_begin.png>
-Package pdftex.def Info: chapter3/ID51_track_begin.png used on input line 292.
+Package pdftex.def Info: chapter3/ID51_track_begin.png used on input line 346.
 (pdftex.def)             Requested size: 98.52515pt x 55.41731pt.
 
-<chapter3/ID51_follow_begin.png, id=482, 433.62pt x 243.91125pt>
+<chapter3/ID51_follow_begin.png, id=542, 433.62pt x 243.91125pt>
 File: chapter3/ID51_follow_begin.png Graphic file (type png)
 
 <use chapter3/ID51_follow_begin.png>
-Package pdftex.def Info: chapter3/ID51_follow_begin.png used on input line 292.
+Package pdftex.def Info: chapter3/ID51_follow_begin.png used on input line 346.
 
 (pdftex.def)             Requested size: 98.52515pt x 55.41731pt.
 
-<chapter3/ID65_track_begin.png, id=483, 433.62pt x 243.91125pt>
+<chapter3/ID65_track_begin.png, id=543, 433.62pt x 243.91125pt>
 File: chapter3/ID65_track_begin.png Graphic file (type png)
 
 <use chapter3/ID65_track_begin.png>
-Package pdftex.def Info: chapter3/ID65_track_begin.png used on input line 292.
+Package pdftex.def Info: chapter3/ID65_track_begin.png used on input line 346.
 (pdftex.def)             Requested size: 98.52515pt x 55.41731pt.
 
-<chapter3/ID65_follow_begin.png, id=484, 433.62pt x 243.91125pt>
+<chapter3/ID65_follow_begin.png, id=544, 433.62pt x 243.91125pt>
 File: chapter3/ID65_follow_begin.png Graphic file (type png)
 
 <use chapter3/ID65_follow_begin.png>
-Package pdftex.def Info: chapter3/ID65_follow_begin.png used on input line 292.
+Package pdftex.def Info: chapter3/ID65_follow_begin.png used on input line 346.
 
 (pdftex.def)             Requested size: 98.52515pt x 55.41731pt.
 
-<chapter3/ID65_following.png, id=485, 433.62pt x 243.91125pt>
+<chapter3/ID65_following.png, id=545, 433.62pt x 243.91125pt>
 File: chapter3/ID65_following.png Graphic file (type png)
 
 <use chapter3/ID65_following.png>
-Package pdftex.def Info: chapter3/ID65_following.png used on input line 292.
+Package pdftex.def Info: chapter3/ID65_following.png used on input line 346.
 (pdftex.def)             Requested size: 103.71101pt x 58.33519pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 292.
+Package pdftex.def Info: logo_white.pdf used on input line 346.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
 
-Overfull \vbox (10.36095pt too high) detected at line 292
+Overfull \vbox (10.36095pt too high) detected at line 346
  []
 
-[14
+[16
 
  <./chapter3/ID51_track_begin.png (PNG copy)> <./chapter3/ID51_follow_begin.png
  (PNG copy)> <./chapter3/ID65_track_begin.png (PNG copy)> <./chapter3/ID65_foll
 ow_begin.png (PNG copy)> <./chapter3/ID65_following.png (PNG copy)>]
-<chapter3/ID65_follow_begin_annotated.png, id=523, 1045.9075pt x 821.0675pt>
+<chapter3/ID65_follow_begin_annotated.png, id=582, 1045.9075pt x 821.0675pt>
 File: chapter3/ID65_follow_begin_annotated.png Graphic file (type png)
 
 <use chapter3/ID65_follow_begin_annotated.png>
 Package pdftex.def Info: chapter3/ID65_follow_begin_annotated.png used on input
- line 314.
+ line 368.
 (pdftex.def)             Requested size: 101.17755pt x 79.41794pt.
 
-<chapter3/ID65_trace_annotated.png, id=529, 1047.915pt x 823.075pt>
+<chapter3/ID65_trace_annotated.png, id=588, 1047.915pt x 823.075pt>
 File: chapter3/ID65_trace_annotated.png Graphic file (type png)
 
 <use chapter3/ID65_trace_annotated.png>
 Package pdftex.def Info: chapter3/ID65_trace_annotated.png used on input line 3
-14.
+68.
 (pdftex.def)             Requested size: 101.17755pt x 79.4614pt.
 
-<chapter3/GPS_trace.png, id=534, 1045.9075pt x 823.075pt>
+<chapter3/GPS_trace.png, id=593, 1045.9075pt x 823.075pt>
 File: chapter3/GPS_trace.png Graphic file (type png)
 
 <use chapter3/GPS_trace.png>
-Package pdftex.def Info: chapter3/GPS_trace.png used on input line 314.
+Package pdftex.def Info: chapter3/GPS_trace.png used on input line 368.
 (pdftex.def)             Requested size: 101.17755pt x 79.6121pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 314.
+Package pdftex.def Info: logo_white.pdf used on input line 368.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [15
+ [17
 
  <./chapter3/ID65_follow_begin_annotated.png> <./chapter3/ID65_trace_annotated.
 png> <./chapter3/GPS_trace.png>]
-<chapter4/advanced_control_motivation.pdf, id=567, 141.52875pt x 86.3225pt>
+<chapter4/advanced_control_motivation.pdf, id=627, 141.52875pt x 86.3225pt>
 File: chapter4/advanced_control_motivation.pdf Graphic file (type pdf)
 
 <use chapter4/advanced_control_motivation.pdf>
 Package pdftex.def Info: chapter4/advanced_control_motivation.pdf used on input
- line 324.
+ line 378.
 (pdftex.def)             Requested size: 177.7376pt x 108.405pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 324.
+Package pdftex.def Info: logo_white.pdf used on input line 378.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [16
+ [18
 
  <./chapter4/advanced_control_motivation.pdf>]
-<chapter4/projection.pdf, id=625, 43.16125pt x 60.225pt>
+<chapter4/projection.pdf, id=685, 43.16125pt x 60.225pt>
 File: chapter4/projection.pdf Graphic file (type pdf)
 
 <use chapter4/projection.pdf>
-Package pdftex.def Info: chapter4/projection.pdf used on input line 338.
+Package pdftex.def Info: chapter4/projection.pdf used on input line 392.
 (pdftex.def)             Requested size: 69.13892pt x 96.48325pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 338.
+Package pdftex.def Info: logo_white.pdf used on input line 392.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [17
+ [19
 
  <./chapter4/projection.pdf>]
 Package epstopdf Info: Source file: <chapter4/simple_zero.eps>
@@ -1547,15 +1586,15 @@ Package epstopdf Info: Source file: <chapter4/simple_zero.eps>
 (epstopdf)                    size: 7088 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/simple_zero-eps-c
 onverted-to.pdf chapter4/simple_zero.eps>
-(epstopdf)             \includegraphics on input line 360.
+(epstopdf)             \includegraphics on input line 414.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/simple_zero-eps-converted-to.pdf, id=685, 1277.77374pt x 738.76pt>
+<chapter4/simple_zero-eps-converted-to.pdf, id=742, 1277.77374pt x 738.76pt>
 File: chapter4/simple_zero-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter4/simple_zero-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/simple_zero-eps-converted-to.pdf used on inpu
-t line 360.
+t line 414.
 (pdftex.def)             Requested size: 108.405pt x 62.6754pt.
 Package epstopdf Info: Source file: <chapter4/simple_ten.eps>
 (epstopdf)                    date: 2017-11-28 10:38:04
@@ -1565,15 +1604,15 @@ Package epstopdf Info: Source file: <chapter4/simple_ten.eps>
 (epstopdf)                    size: 7086 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/simple_ten-eps-co
 nverted-to.pdf chapter4/simple_ten.eps>
-(epstopdf)             \includegraphics on input line 360.
+(epstopdf)             \includegraphics on input line 414.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/simple_ten-eps-converted-to.pdf, id=686, 1277.77374pt x 738.76pt>
+<chapter4/simple_ten-eps-converted-to.pdf, id=743, 1277.77374pt x 738.76pt>
 File: chapter4/simple_ten-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter4/simple_ten-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/simple_ten-eps-converted-to.pdf used on input
- line 360.
+ line 414.
 (pdftex.def)             Requested size: 108.405pt x 62.6754pt.
 Package epstopdf Info: Source file: <chapter4/simple_ex.eps>
 (epstopdf)                    date: 2017-12-19 10:26:56
@@ -1583,43 +1622,43 @@ Package epstopdf Info: Source file: <chapter4/simple_ex.eps>
 (epstopdf)                    size: 56021 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/simple_ex-eps-con
 verted-to.pdf chapter4/simple_ex.eps>
-(epstopdf)             \includegraphics on input line 360.
+(epstopdf)             \includegraphics on input line 414.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/simple_ex-eps-converted-to.pdf, id=687, 447.6725pt x 369.38pt>
+<chapter4/simple_ex-eps-converted-to.pdf, id=744, 447.6725pt x 369.38pt>
 File: chapter4/simple_ex-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter4/simple_ex-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/simple_ex-eps-converted-to.pdf used on input 
-line 360.
+line 414.
 (pdftex.def)             Requested size: 108.405pt x 89.44772pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 360.
+Package pdftex.def Info: logo_white.pdf used on input line 414.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [18
+ [20
 
  <./chapter4/simple_zero-eps-converted-to.pdf> <./chapter4/simple_ten-eps-conve
 rted-to.pdf> <./chapter4/simple_ex-eps-converted-to.pdf>]
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 370.
+Package pdftex.def Info: logo_white.pdf used on input line 424.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [19
+ [21
 
 ]
-<chapter4/image_based_backstepping.pdf, id=762, 284.06125pt x 154.5775pt>
+<chapter4/image_based_backstepping.pdf, id=818, 284.06125pt x 154.5775pt>
 File: chapter4/image_based_backstepping.pdf Graphic file (type pdf)
 
 <use chapter4/image_based_backstepping.pdf>
 Package pdftex.def Info: chapter4/image_based_backstepping.pdf used on input li
-ne 380.
+ne 434.
 (pdftex.def)             Requested size: 212.49925pt x 115.63243pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 380.
+Package pdftex.def Info: logo_white.pdf used on input line 434.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [20
+ [22
 
  <./chapter4/image_based_backstepping.pdf>]
 Package epstopdf Info: Source file: <chapter4/image_UAV_0mps.eps>
@@ -1631,15 +1670,15 @@ df>
 (epstopdf)                    size: 9439 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_UAV_0mps-ep
 s-converted-to.pdf chapter4/image_UAV_0mps.eps>
-(epstopdf)             \includegraphics on input line 409.
+(epstopdf)             \includegraphics on input line 463.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_UAV_0mps-eps-converted-to.pdf, id=795, 425.59pt x 319.1925pt>
+<chapter4/image_UAV_0mps-eps-converted-to.pdf, id=850, 425.59pt x 319.1925pt>
 File: chapter4/image_UAV_0mps-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapter4/image_UAV_0mps-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_UAV_0mps-eps-converted-to.pdf used on i
-nput line 409.
+nput line 463.
 (pdftex.def)             Requested size: 96.35754pt x 72.26999pt.
 Package epstopdf Info: Source file: <chapter4/image_UAV_0mps_60s.eps>
 (epstopdf)                    date: 2018-01-02 16:00:16
@@ -1650,15 +1689,15 @@ to.pdf>
 (epstopdf)                    size: 9593 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_UAV_0mps_60
 s-eps-converted-to.pdf chapter4/image_UAV_0mps_60s.eps>
-(epstopdf)             \includegraphics on input line 409.
+(epstopdf)             \includegraphics on input line 463.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_UAV_0mps_60s-eps-converted-to.pdf, id=796, 425.59pt x 319.1925p
+<chapter4/image_UAV_0mps_60s-eps-converted-to.pdf, id=851, 425.59pt x 319.1925p
 t>
 File: chapter4/image_UAV_0mps_60s-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter4/image_UAV_0mps_60s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_UAV_0mps_60s-eps-converted-to.pdf used 
-on input line 409.
+on input line 463.
 (pdftex.def)             Requested size: 96.35754pt x 72.26999pt.
 Package epstopdf Info: Source file: <chapter4/image_camera_0mps.eps>
 (epstopdf)                    date: 2018-01-02 15:55:50
@@ -1669,15 +1708,15 @@ o.pdf>
 (epstopdf)                    size: 5826 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_camera_0mps
 -eps-converted-to.pdf chapter4/image_camera_0mps.eps>
-(epstopdf)             \includegraphics on input line 409.
+(epstopdf)             \includegraphics on input line 463.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_camera_0mps-eps-converted-to.pdf, id=797, 425.59pt x 319.1925pt
+<chapter4/image_camera_0mps-eps-converted-to.pdf, id=852, 425.59pt x 319.1925pt
 >
 File: chapter4/image_camera_0mps-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter4/image_camera_0mps-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_camera_0mps-eps-converted-to.pdf used o
-n input line 409.
+n input line 463.
 (pdftex.def)             Requested size: 96.35754pt x 72.26999pt.
 Package epstopdf Info: Source file: <chapter4/image_camera_0mps_60s.eps>
 (epstopdf)                    date: 2018-01-02 16:00:32
@@ -1688,27 +1727,27 @@ ed-to.pdf>
 (epstopdf)                    size: 5833 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_camera_0mps
 _60s-eps-converted-to.pdf chapter4/image_camera_0mps_60s.eps>
-(epstopdf)             \includegraphics on input line 409.
+(epstopdf)             \includegraphics on input line 463.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_camera_0mps_60s-eps-converted-to.pdf, id=798, 425.59pt x 319.19
+<chapter4/image_camera_0mps_60s-eps-converted-to.pdf, id=853, 425.59pt x 319.19
 25pt>
 File: chapter4/image_camera_0mps_60s-eps-converted-to.pdf Graphic file (type pd
 f)
  <use chapter4/image_camera_0mps_60s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_camera_0mps_60s-eps-converted-to.pdf us
-ed on input line 409.
+ed on input line 463.
 (pdftex.def)             Requested size: 96.35754pt x 72.26999pt.
 File: logo_white.pdf Graphic file (type pdf)
 
 <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 409.
+Package pdftex.def Info: logo_white.pdf used on input line 463.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
 
-Overfull \vbox (13.8163pt too high) detected at line 409
+Overfull \vbox (13.8163pt too high) detected at line 463
  []
 
-[21
+[23
 
  <./chapter4/image_UAV_0mps-eps-converted-to.pdf> <./chapter4/image_UAV_0mps_60
 s-eps-converted-to.pdf> <./chapter4/image_camera_0mps-eps-converted-to.pdf> <./
@@ -1722,22 +1761,22 @@ f>
 (epstopdf)                    size: 46121 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_Ex_0mps-eps
 -converted-to.pdf chapter4/image_Ex_0mps.eps>
-(epstopdf)             \includegraphics on input line 418.
+(epstopdf)             \includegraphics on input line 472.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_Ex_0mps-eps-converted-to.pdf, id=851, 643.40375pt x 464.73625pt
+<chapter4/image_Ex_0mps-eps-converted-to.pdf, id=907, 643.40375pt x 464.73625pt
 >
 File: chapter4/image_Ex_0mps-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter4/image_Ex_0mps-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_Ex_0mps-eps-converted-to.pdf used on in
-put line 418.
+put line 472.
 (pdftex.def)             Requested size: 150.0807pt x 108.405pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 418.
+Package pdftex.def Info: logo_white.pdf used on input line 472.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
 
-[22
+[24
 
  <./chapter4/image_Ex_0mps-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <chapter4/image_UAV_5mps.eps>
@@ -1749,14 +1788,14 @@ df>
 (epstopdf)                    size: 9555 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_UAV_5mps-ep
 s-converted-to.pdf chapter4/image_UAV_5mps.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 505.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_UAV_5mps-eps-converted-to.pdf, id=882, 1277.77374pt x 738.76pt>
+<chapter4/image_UAV_5mps-eps-converted-to.pdf, id=938, 1277.77374pt x 738.76pt>
 File: chapter4/image_UAV_5mps-eps-converted-to.pdf Graphic file (type pdf)
 <use chapter4/image_UAV_5mps-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_UAV_5mps-eps-converted-to.pdf used on i
-nput line 451.
+nput line 505.
 (pdftex.def)             Requested size: 110.62648pt x 63.9492pt.
 Package epstopdf Info: Source file: <chapter4/image_UAV_5mps_90s.eps>
 (epstopdf)                    date: 2018-01-04 10:39:12
@@ -1767,15 +1806,15 @@ to.pdf>
 (epstopdf)                    size: 9715 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_UAV_5mps_90
 s-eps-converted-to.pdf chapter4/image_UAV_5mps_90s.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 505.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_UAV_5mps_90s-eps-converted-to.pdf, id=883, 1277.77374pt x 738.7
+<chapter4/image_UAV_5mps_90s-eps-converted-to.pdf, id=939, 1277.77374pt x 738.7
 6pt>
 File: chapter4/image_UAV_5mps_90s-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter4/image_UAV_5mps_90s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_UAV_5mps_90s-eps-converted-to.pdf used 
-on input line 451.
+on input line 505.
 (pdftex.def)             Requested size: 110.62648pt x 63.9492pt.
 Package epstopdf Info: Source file: <chapter4/image_UAV_5mps_180s.eps>
 (epstopdf)                    date: 2018-01-04 10:52:00
@@ -1786,16 +1825,16 @@ Package epstopdf Info: Source file: <chapter4/image_UAV_5mps_180s.eps>
 (epstopdf)                    size: 9669 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_UAV_5mps_18
 0s-eps-converted-to.pdf chapter4/image_UAV_5mps_180s.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 505.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_UAV_5mps_180s-eps-converted-to.pdf, id=884, 1277.77374pt x 738.
+<chapter4/image_UAV_5mps_180s-eps-converted-to.pdf, id=940, 1277.77374pt x 738.
 76pt>
 File: chapter4/image_UAV_5mps_180s-eps-converted-to.pdf Graphic file (type pdf)
 
  <use chapter4/image_UAV_5mps_180s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_UAV_5mps_180s-eps-converted-to.pdf used
- on input line 451.
+ on input line 505.
 (pdftex.def)             Requested size: 110.62648pt x 63.9492pt.
 Package epstopdf Info: Source file: <chapter4/image_camera_5mps.eps>
 (epstopdf)                    date: 2018-01-04 10:33:22
@@ -1806,15 +1845,15 @@ o.pdf>
 (epstopdf)                    size: 5836 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_camera_5mps
 -eps-converted-to.pdf chapter4/image_camera_5mps.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 505.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_camera_5mps-eps-converted-to.pdf, id=885, 425.59pt x 319.1925pt
+<chapter4/image_camera_5mps-eps-converted-to.pdf, id=941, 425.59pt x 319.1925pt
 >
 File: chapter4/image_camera_5mps-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter4/image_camera_5mps-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_camera_5mps-eps-converted-to.pdf used o
-n input line 451.
+n input line 505.
 (pdftex.def)             Requested size: 110.62648pt x 82.9686pt.
 Package epstopdf Info: Source file: <chapter4/image_camera_5mps_90s.eps>
 (epstopdf)                    date: 2018-01-04 10:39:22
@@ -1825,16 +1864,16 @@ ed-to.pdf>
 (epstopdf)                    size: 5836 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_camera_5mps
 _90s-eps-converted-to.pdf chapter4/image_camera_5mps_90s.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 505.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_camera_5mps_90s-eps-converted-to.pdf, id=886, 425.59pt x 319.19
+<chapter4/image_camera_5mps_90s-eps-converted-to.pdf, id=942, 425.59pt x 319.19
 25pt>
 File: chapter4/image_camera_5mps_90s-eps-converted-to.pdf Graphic file (type pd
 f)
  <use chapter4/image_camera_5mps_90s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_camera_5mps_90s-eps-converted-to.pdf us
-ed on input line 451.
+ed on input line 505.
 (pdftex.def)             Requested size: 110.62648pt x 82.9686pt.
 Package epstopdf Info: Source file: <chapter4/image_camera_5mps_180s.eps>
 (epstopdf)                    date: 2018-01-04 10:51:52
@@ -1845,27 +1884,27 @@ ted-to.pdf>
 (epstopdf)                    size: 5843 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_camera_5mps
 _180s-eps-converted-to.pdf chapter4/image_camera_5mps_180s.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 505.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_camera_5mps_180s-eps-converted-to.pdf, id=887, 425.59pt x 319.1
+<chapter4/image_camera_5mps_180s-eps-converted-to.pdf, id=943, 425.59pt x 319.1
 925pt>
 File: chapter4/image_camera_5mps_180s-eps-converted-to.pdf Graphic file (type p
 df)
  <use chapter4/image_camera_5mps_180s-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_camera_5mps_180s-eps-converted-to.pdf u
-sed on input line 451.
+sed on input line 505.
 (pdftex.def)             Requested size: 110.62648pt x 82.9686pt.
 File: logo_white.pdf Graphic file (type pdf)
 
 <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 451.
+Package pdftex.def Info: logo_white.pdf used on input line 505.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
 
-Overfull \vbox (7.19412pt too high) detected at line 451
+Overfull \vbox (7.19412pt too high) detected at line 505
  []
 
-[23
+[25
 
  <./chapter4/image_UAV_5mps-eps-converted-to.pdf> <./chapter4/image_UAV_5mps_90
 s-eps-converted-to.pdf> <./chapter4/image_UAV_5mps_180s-eps-converted-to.pdf> <
@@ -1881,43 +1920,43 @@ f>
 (epstopdf)                    size: 100972 bytes
 (epstopdf)             Command: <repstopdf --outfile=chapter4/image_Ex_5mps-eps
 -converted-to.pdf chapter4/image_Ex_5mps.eps>
-(epstopdf)             \includegraphics on input line 460.
+(epstopdf)             \includegraphics on input line 514.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapter4/image_Ex_5mps-eps-converted-to.pdf, id=954, 643.40375pt x 464.73625pt
->
+<chapter4/image_Ex_5mps-eps-converted-to.pdf, id=1011, 643.40375pt x 464.73625p
+t>
 File: chapter4/image_Ex_5mps-eps-converted-to.pdf Graphic file (type pdf)
  <use chapter4/image_Ex_5mps-eps-converted-to.pdf>
 Package pdftex.def Info: chapter4/image_Ex_5mps-eps-converted-to.pdf used on in
-put line 460.
+put line 514.
 (pdftex.def)             Requested size: 150.0807pt x 108.405pt.
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 460.
+Package pdftex.def Info: logo_white.pdf used on input line 514.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
 
-[24
+[26
 
  <./chapter4/image_Ex_5mps-eps-converted-to.pdf>]
 File: logo_white.pdf Graphic file (type pdf)
  <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 469.
+Package pdftex.def Info: logo_white.pdf used on input line 523.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
 
-[25
+[27
 
 ]
 
-LaTeX Warning: Citation `Gans2011' on page 26 undefined on input line 478.
+LaTeX Warning: Citation `Gans2011' on page 28 undefined on input line 532.
 
 
-LaTeX Warning: Citation `Gans2011' on page 26 undefined on input line 478.
+LaTeX Warning: Citation `Gans2011' on page 28 undefined on input line 532.
 
 File: logo_white.pdf Graphic file (type pdf)
 <use logo_white.pdf>
-Package pdftex.def Info: logo_white.pdf used on input line 478.
+Package pdftex.def Info: logo_white.pdf used on input line 532.
 (pdftex.def)             Requested size: 42.40327pt x 21.33955pt.
- [26
+ [28
 
 ]
 \tf@nav=\write6
@@ -1929,42 +1968,43 @@ Package pdftex.def Info: logo_white.pdf used on input line 478.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 480.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 480.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 534.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 534.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 480.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 480.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 534.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 534.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 480.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 534.
  ) 
 Here is how much of TeX's memory you used:
- 21329 strings out of 494953
- 421187 string characters out of 6180977
- 476818 words of memory out of 5000000
- 24000 multiletter control sequences out of 15000+600000
+ 21361 strings out of 494953
+ 421693 string characters out of 6180977
+ 479911 words of memory out of 5000000
+ 24024 multiletter control sequences out of 15000+600000
  51028 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,14n,54p,862b,716s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
-/lmmi6.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmmi9.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/type1
-/public/lm/lmsso9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on presentation.pdf (26 pages, 10402860 bytes).
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathex.enc}</usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi9.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb></usr/
+share/texmf/fonts/type1/public/lm/lmsso9.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy9.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on presentation.pdf (28 pages, 14906314 bytes).
 PDF statistics:
- 1100 PDF objects out of 1200 (max. 8388607)
- 903 compressed objects within 10 object streams
- 78 named destinations out of 1000 (max. 500000)
- 278 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1160 PDF objects out of 1200 (max. 8388607)
+ 956 compressed objects within 10 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 

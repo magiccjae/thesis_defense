@@ -19,7 +19,6 @@
 \usepackage{amsmath}					%	allows for mathematical symbols
 \usepackage{amssymb}					%	defines symbol names for all the math symbols
 
-
 %\setbeamerfont{caption}{size=\small}
 \usepackage[textfont={small}]{caption}
 %\captionsetup[sub]{font=small,labelfont={bf,sf}}
@@ -43,6 +42,32 @@
 
 \begin{frame}
 \titlepage
+\end{frame}
+
+\begin{frame}{Introduction}
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[t]{0.45\linewidth}
+		\centering
+		\includegraphics[height=1.2in]{myfamily.jpg}
+		\caption{My little family}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.45\linewidth}
+		\centering
+		\includegraphics[height=1.2in]{woojoosuho.jpg}
+		\caption{Woojoo and Suho}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.45\linewidth}
+		\centering
+		\includegraphics[height=1.2in]{busan_family.jpg}
+		\caption{Family in Korea}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.45\linewidth}
+		\centering
+		\includegraphics[height=1.2in]{hospital.jpg}
+		\caption{Hospital view}
+	\end{subfigure}
+\end{figure}
 \end{frame}
 
 \begin{frame}{Introduction}
@@ -104,6 +129,35 @@ Introduction
 		
 		 - Model Reference Adaptive Control (MRAC) scheme eliminates the depth term in image jacobian
 	\end{enumerate}
+\end{frame}
+
+\begin{frame}{Adaptive Depth Gimbal Control}
+Image jacobian
+$$\begin{bmatrix}
+	\dot{u} \\ \dot{w}
+\end{bmatrix}
+=\begin{bmatrix}
+	-\frac{\lambda}{z} & 0 & \frac{u}{z} & \frac{uw}{\lambda} & -\frac{\lambda^2+u^2}{\lambda} & w \\
+	0 & -\frac{\lambda}{z} & \frac{w}{z} & \frac{\lambda^2+w^2}{\lambda} & -\frac{uw}{\lambda} & -u
+\end{bmatrix}
+\begin{bmatrix}
+	v_x^c \\ v_y^c \\ v_z^c \\
+	\omega_x^c \\ \omega_y^c \\ \omega_z^c
+\end{bmatrix}$$
+rearranged into 
+$$\dot{s}
+=\frac{1}{z}
+\begin{bmatrix}
+-\lambda v_x^c+uv_z^c \\
+-\lambda v_y^c+wv_z^c \\
+\end{bmatrix}
++\begin{bmatrix}
+\frac{uw}{\lambda} & -\frac{\lambda^2+u^2}{\lambda} & w \\
+\frac{\lambda^2+w^2}{\lambda} & -\frac{uw}{\lambda} & -u
+\end{bmatrix}
+\begin{bmatrix}
+\omega_x^c \\ \omega_y^c \\ \omega_z^c
+\end{bmatrix}.$$
 \end{frame}
 
 \begin{frame}{Adaptive Depth Gimbal Control}
