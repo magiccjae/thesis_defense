@@ -133,20 +133,24 @@ Introduction
 
 \begin{frame}{Adaptive Depth Gimbal Control}
 Image jacobian
-$$\begin{bmatrix}
-	\dot{u} \\ \dot{w}
+\begin{equation}
+\begin{bmatrix}
+\dot{u} \\ \dot{w}
 \end{bmatrix}
 =\begin{bmatrix}
-	-\frac{\lambda}{z} & 0 & \frac{u}{z} & \frac{uw}{\lambda} & -\frac{\lambda^2+u^2}{\lambda} & w \\
-	0 & -\frac{\lambda}{z} & \frac{w}{z} & \frac{\lambda^2+w^2}{\lambda} & -\frac{uw}{\lambda} & -u
+-\frac{\lambda}{z} & 0 & \frac{u}{z} & \frac{uw}{\lambda} & -\frac{\lambda^2+u^2}{\lambda} & w \\
+0 & -\frac{\lambda}{z} & \frac{w}{z} & \frac{\lambda^2+w^2}{\lambda} & -\frac{uw}{\lambda} & -u
 \end{bmatrix}
 \begin{bmatrix}
-	v_x^c \\ v_y^c \\ v_z^c \\
-	\omega_x^c \\ \omega_y^c \\ \omega_z^c
-\end{bmatrix}$$
+v_x^c \\ v_y^c \\ v_z^c \\
+\omega_x^c \\ \omega_y^c \\ \omega_z^c
+\end{bmatrix}
+\end{equation}
+
 rearranged into 
-$$\dot{s}
-=\frac{1}{z}
+\begin{align}
+\\\dot{\mathbf{s}}
+&=\frac{1}{z}
 \begin{bmatrix}
 -\lambda v_x^c+uv_z^c \\
 -\lambda v_y^c+wv_z^c \\
@@ -157,7 +161,46 @@ $$\dot{s}
 \end{bmatrix}
 \begin{bmatrix}
 \omega_x^c \\ \omega_y^c \\ \omega_z^c
-\end{bmatrix}.$$
+\end{bmatrix} \\
+&=\beta\varphi + L_{\omega}U
+\end{align}
+Since $\beta$ is an unknown quantity and needs to be adapted,
+\begin{equation}
+U=L_\omega^\sharp(-\hat{\beta}\varphi+A\mathbf{s})
+\end{equation}
+\end{frame}
+
+\begin{frame}{Adaptive Depth Gimbal Control}
+Let the error be defined as 
+\begin{equation}
+\mathbf{e}=\mathbf{s}-\mathbf{s}^{ref}
+\end{equation}
+Taking derivative
+\begin{align}
+\dot{\mathbf{e}}&=\dot{\mathbf{s}}-\dot{\mathbf{s}}^{ref}
+\\&=\tilde{\beta}\varphi+A\mathbf{e}
+\end{align}
+Using the variables of interest, a Lyapunov function candidate can be constructed as 
+\begin{equation}
+V=\frac{1}{2}\mathbf{e}^\top\mathbf{e}+\frac{1}{2\gamma_\beta}\tilde{\beta}^2
+\end{equation}
+Assuming that the inverse depth $\beta$ is constant or slowly moving ($\dot{\beta}=0$, $\dot{\tilde{\beta}}=-\dot{\hat{\beta}}$), the above equation becomes
+\begin{align}
+\dot{V}&=\mathbf{e}^\top A\mathbf{e}+\tilde{\beta}(\mathbf{e}^\top\varphi-\frac{\dot{\hat{\beta}}}{\gamma_\beta})
+\label{vdot2}
+\end{align}
+\end{frame}
+
+\begin{frame}{Adaptive Depth Gimbal Control}
+Since $\dot{\hat{\beta}}$ is a design parameter, its value can be selected as 
+\begin{equation}
+\dot{\hat{\beta}}=\gamma_\beta\mathbf{e}^\top\varphi
+\end{equation}
+Then, the equation (\ref{vdot2}) becomes
+\begin{equation}
+\dot{V}=\mathbf{e}^\top A\mathbf{e}
+\end{equation}
+Asymptotic stability of the system follows from the fact that A is Hurwitz.
 \end{frame}
 
 \begin{frame}{Adaptive Depth Gimbal Control}
@@ -277,7 +320,7 @@ ACGC
 AVCGC
 \begin{itemize}
 	\item Designed for moving camera
-	\item Requires the knowledge of the depth $z$
+	\item Requires the depth $z$
 \end{itemize}
 ADGC
 \begin{itemize}
@@ -367,6 +410,13 @@ Hardware results - target footage in image and multirotor GPS footage
 \end{figure*}	
 \end{frame}
 
+\begin{frame}{Autonomous Target Following System}
+Hardware results - video
+\linebreak
+\linebreak
+\href{https://youtu.be/hXANnuVYaX8}{https://youtu.be/hXANnuVYaX8}
+\end{frame}
+
 \begin{frame}{Unit Vector UAV Visual Servoing}
 Motivation
 \begin{figure}[htbp]
@@ -385,10 +435,52 @@ Control objective
 	\caption{Projection onto the null space of the optical axis unit vector}
 	\label{projection}
 \end{figure}
-$$P_{\hat{m}}=(I-\hat{m}\hat{m}^\top)$$
-$$\hat{e}_1=[1 \quad 0 \quad 0]^\top$$
-$$e_x=\hat{e}_1^{\top}P_{\hat{m}}\hat{\ell}$$
-$$s=\dot{e}_x+ke_x$$
+\begin{equation}
+P_{\hat{m}}=(I-\hat{m}\hat{m}^\top)
+\end{equation}
+\begin{equation}
+\hat{e}_1=[1 \quad 0 \quad 0]^\top
+\end{equation}
+\begin{equation}
+e_x=\hat{e}_1^{\top}P_{\hat{m}}\hat{\ell}
+\end{equation}
+\end{frame}
+
+\begin{frame}{Unit Vector UAV Visual Servoing}
+In order to drive $e_x$ to zero, define
+\begin{equation}
+s=\dot{e}_x+ke_x
+\end{equation}
+Taking derivatives 
+\begin{align}
+\dot{s}&=\ddot{e}_x+k\dot{e}_x
+\\&=-\beta_1\phi_1u_1+\beta_2\phi_2+\beta_3\phi_3+k\dot{e}_x
+\label{sdot}
+\end{align}
+ Since we do not know $\beta_1$, $\beta_2$, and $\beta_3$, we use the control input
+ \begin{equation}
+ u_1=\frac{1}{\hat{\beta}_1\phi_1}(\hat{\beta}_2\phi_2+\hat{\beta}_3\phi_3+k\dot{e}_x+\alpha s)
+ \end{equation}
+\end{frame}
+
+\begin{frame}{Unit Vector UAV Visual Servoing}
+Lyapunov function
+\begin{equation}
+V=\frac{1}{2}s^2+\frac{1}{2}\tilde{B}^\top \Gamma^{-1}\tilde{B}
+\end{equation}
+Taking derivatives
+\begin{align}
+\dot{V}&=s\dot{s}+\tilde{B}^\top \Gamma^{-1}\dot{\tilde{B}}
+\\&=-\alpha s^2+\tilde{B}^\top(s\Phi+\Gamma^{-1}\dot{\tilde{B}})
+\end{align}
+Assuming $B$ is roughly constant or slowly varying (i.e. $\dot{B}=0$), we have that $\dot{\tilde{B}}=-\dot{\hat{B}}$ implying that
+\begin{equation}
+\dot{V}=-\alpha s^2+\tilde{B}^\top(s\Phi-\Gamma^{-1}\dot{\hat{B}})
+\end{equation}
+Therefore, by choosing $\dot{\hat{B}}=s\Gamma\Phi$, gives
+\begin{equation}
+\dot{V}=-\alpha s^2
+\end{equation}
 \end{frame}
 
 \begin{frame}{Unit Vector UAV Visual Servoing}
@@ -527,7 +619,6 @@ Simulation results - moving target
 	\item Implement the unit vector UAV visual servoing in Gazebo simulator. Test the control algorithm as well as the whole system with tracking algorithm. Tune the control parameter for more realistic multirotor and test with varying speed target. Come up with safety logic to ensure that the UAV is under control.
 	\item Integrate the unit vector UAV visual servoing algorithm into the autonomous target following system in hardware. Test the system on non-flat ground. 
 	\item Design and build a new compact gimbal for small multirotor and test the adaptive depth gimbal control algorithm on a flying platform. Compare the result with other existing algorithms. (Optional)
-	\item Implement the multiple target keeping in FOV algorithm from \cite{Gans2011} and integrate into the autonomous target following system. Note that the algorithm from \cite{Gans2011} is realistic for a multirotor equipped with at least two-axis gimbal. (Optional)
 \end{itemize}
 \end{frame}
 
