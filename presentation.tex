@@ -507,12 +507,20 @@ Simulation results - simple dynamics
 
 \begin{frame}{Unit Vector UAV Visual Servoing}
 Backstepping controller derivation for multirotor dynamics
-$$\ddot{p}_x=-\cos\phi\sin\theta\frac{F}{m}$$
-$$\ddot{p}_x=-\frac{F_e}{m}\theta$$
-$$\ddot{\theta}=\frac{1}{J_y}\tau_{\theta}$$
+\begin{equation}
+\ddot{p}_x=-\cos\phi\sin\theta\frac{F}{m}
+\end{equation}
+\begin{equation}
+\ddot{p}_x=-\frac{F_e}{m}\theta
+\end{equation}
+\begin{equation}
+\ddot{\theta}=\frac{1}{J_y}\tau_{\theta}
+\end{equation}
 $$\vdots$$
-$$\tau_\theta=\frac{J_ym}{\phi_1F_e\hat{\beta}_1}
-(\xi_1+\dot{\xi}_2-\hat{\beta}_1\phi_1\frac{F_e}{m}\theta-\phi_1\frac{F_e}{m}\dot{\hat{\beta}}_1\dot{\theta}-k_3(\phi_1\frac{F_e}{m}\hat{\beta}_1\dot{\theta}-\xi_2))$$
+\begin{equation}
+\tau_\theta=\frac{J_ym}{\phi_1F_e\hat{\beta}_1}
+(\xi_1+\dot{\xi}_2-\hat{\beta}_1\phi_1\frac{F_e}{m}\theta-\phi_1\frac{F_e}{m}\dot{\hat{\beta}}_1\dot{\theta}-k_3(\phi_1\frac{F_e}{m}\hat{\beta}_1\dot{\theta}-\xi_2))
+\end{equation}
 \end{frame}
 
 \begin{frame}{Unit Vector UAV Visual Servoing}
